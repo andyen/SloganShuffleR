@@ -1,0 +1,21 @@
+.noun {
+    text-shadow: 2px 2px 0 #000, 3px 3px 0 #000;
+}
+
+.black {
+  font-weight: bold;
+  text-shadow: 2px 2px 0 #000, 3px 3px 0 #000;
+}
+
+#slogan {
+  width: 95%;
+  padding: 2em 1em;
+  background-color: rgb(206, 17, 34);
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 3em;
+  font-weight: bold;
+  color: white;
+  -webkit-text-stroke: 1px black;
+  text-transform: uppercase;
+}
